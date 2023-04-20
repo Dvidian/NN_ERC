@@ -1,4 +1,3 @@
 # NN_ERC
 NN_ERC
-**A simple neural network project Since this was my first project in python, 
-I struggled quite a bit with the syntax and numpy library.
+A simple neural network from scratch just using numpy and pands to showcase matrix multiplication
